@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.721e29c8.css",
-    "main.js": "/static/js/main.2caa140b.js",
+    "main.js": "/static/js/main.67e31537.js",
     "static/media/BREAKTHEBOT.png": "/static/media/BREAKTHEBOT.ea0234f963069b8921d6.png",
     "static/media/AIPROMPTBATTLE.png": "/static/media/AIPROMPTBATTLE.f315bf0c8f928b77be2c.png",
     "static/media/PUZZLEHUNT.png": "/static/media/PUZZLEHUNT.62e81717bbd5322a5bfa.png",
@@ -24,7 +24,6 @@
     "static/media/REALLIFEAMONGUS.jpeg": "/static/media/REALLIFEAMONGUS.5ed28d0de64141dd4132.jpeg",
     "static/media/college-logo.png": "/static/media/college-logo.a2f915245f6a20404608.png",
     "static/media/AIHUNTING.jpeg": "/static/media/AIHUNTING.79d93d8a9016fadd963b.jpeg",
-    "static/media/QUANTUMQUESTPHYSICS.jpeg": "/static/media/QUANTUMQUESTPHYSICS.5683ff8589c2e43e76fe.jpeg",
     "static/media/TREASUREHUNT.jpeg": "/static/media/TREASUREHUNT.390b895a6e9ae77924e5.jpeg",
     "static/media/WORDWIZARDENGLISH.jpeg": "/static/media/WORDWIZARDENGLISH.cbbfd24661cddfd86955.jpeg",
     "static/media/CRICKETCARNIVAL.jpeg": "/static/media/CRICKETCARNIVAL.dc45f5fd15a296fdcc95.jpeg",
@@ -42,13 +41,14 @@
     "static/media/BLINDCODE.jpeg": "/static/media/BLINDCODE.326b22f0d358a57472b3.jpeg",
     "static/media/BRIDGEBATTLE.jpeg": "/static/media/BRIDGEBATTLE.75b85295ec1968f8ae44.jpeg",
     "static/media/reelrush.png": "/static/media/reelrush.60a7698b087da6c89916.png",
+    "static/media/QUANTUMQUESTPHYSICS.jpeg": "/static/media/QUANTUMQUESTPHYSICS.fcb4989e1cf117f6b774.jpeg",
     "static/media/SQUIDGAMEINTECHWORLD.jpeg": "/static/media/SQUIDGAMEINTECHWORLD.84ba0b4c51b891f9cc30.jpeg",
     "index.html": "/index.html",
     "main.721e29c8.css.map": "/static/css/main.721e29c8.css.map",
-    "main.2caa140b.js.map": "/static/js/main.2caa140b.js.map"
+    "main.67e31537.js.map": "/static/js/main.67e31537.js.map"
   },
   "entrypoints": [
     "static/css/main.721e29c8.css",
-    "static/js/main.2caa140b.js"
+    "static/js/main.67e31537.js"
   ]
 }
