@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.721e29c8.css",
-    "main.js": "/static/js/main.67e31537.js",
+    "main.js": "/static/js/main.bafc876e.js",
     "static/media/BREAKTHEBOT.png": "/static/media/BREAKTHEBOT.ea0234f963069b8921d6.png",
     "static/media/AIPROMPTBATTLE.png": "/static/media/AIPROMPTBATTLE.f315bf0c8f928b77be2c.png",
     "static/media/PUZZLEHUNT.png": "/static/media/PUZZLEHUNT.62e81717bbd5322a5bfa.png",
@@ -45,10 +45,10 @@
     "static/media/SQUIDGAMEINTECHWORLD.jpeg": "/static/media/SQUIDGAMEINTECHWORLD.84ba0b4c51b891f9cc30.jpeg",
     "index.html": "/index.html",
     "main.721e29c8.css.map": "/static/css/main.721e29c8.css.map",
-    "main.67e31537.js.map": "/static/js/main.67e31537.js.map"
+    "main.bafc876e.js.map": "/static/js/main.bafc876e.js.map"
   },
   "entrypoints": [
     "static/css/main.721e29c8.css",
-    "static/js/main.67e31537.js"
+    "static/js/main.bafc876e.js"
   ]
 }
